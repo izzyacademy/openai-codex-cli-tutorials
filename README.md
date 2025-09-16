@@ -8,12 +8,16 @@ This is the accompanying repository for the master class where you will see link
 
 Codex CLI is an *open-source coding agent* from OpenAI that you run locally in your terminal. It allows you to interact with your local codebase via natural-language prompts: read files, modify them, run commands, tests, etc. It supports operations like approving actions, sandboxing, non-interactive (CI) mode, image inputs, etc.
 
+## How you can use it
+
+Codex is available as a [CLI tool](https://developers.openai.com/codex/cli), as [an IDE extension/plugin](https://developers.openai.com/codex/ide) and also [in the Cloud](https://developers.openai.com/codex/cloud).
+
 ---
 
 ## What language / Tech stack it’s written in
 
 * The core is written in **Rust**. 
-* There is also a CLI wrapper or bindings via npm / JavaScript so that users can install via `npm install -g @openai/codex` etc. 
+* There is also a CLI wrapper or bindings via npm / Node so that users can install via `npm install -g @openai/codex` etc. 
 
 ---
 
