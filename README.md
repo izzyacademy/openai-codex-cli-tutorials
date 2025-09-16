@@ -12,6 +12,8 @@ Codex CLI is an *open-source coding agent* from OpenAI that you run locally in y
 
 Codex is available as a [CLI tool](https://developers.openai.com/codex/cli), as [an IDE extension/plugin](https://developers.openai.com/codex/ide) and also [in the Cloud](https://developers.openai.com/codex/cloud).
 
+There is also an [Intellij Plugin](https://plugins.jetbrains.com/plugin/28264-codex-launcher) available if you use JetBrains IDEs like Pycharm, Intellij and Webstorm.
+
 ---
 
 ## What language / Tech stack it’s written in
