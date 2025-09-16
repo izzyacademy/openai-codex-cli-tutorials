@@ -1,2 +1,3 @@
-# openai-codex-cli-tutorials
+# OpenAI Codex CLI Tutorials
+
 OpenAI Codex CLI Master Class
