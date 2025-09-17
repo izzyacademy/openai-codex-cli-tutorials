@@ -4,6 +4,18 @@ OpenAI Codex CLI Master Class
 
 This is the accompanying repository for the master class where you will see links to resources that would help you follow along with the series.
 
+## Repository for Spec-Driven Development using Codex Agent
+
+The following repositories will be used to manage development projects via SDD using Codex agents.
+
+The project specifications will be provided and the Codex agent will use these instructions/requirements to generate the desired artifacts.
+
+- [Application Infrastructure](https://github.com/izzyacademy/spec-driven-development-infrastructure)
+- [Backend API Application](https://github.com/izzyacademy/spec-driven-development-backend-api)
+- [Frontend UI Application](https://github.com/izzyacademy/spec-driven-development-frontend-ui)
+  
+We will use the Codex agent to create the automation scripts that will provision the infrastructure with Terraform, then the backend REST API application using FastAPI (python) and then the frontend UI application using Angular (Node/Typescript).
+  
 ## About Codex CLI
 
 Codex CLI is an *open-source coding agent* from OpenAI that you run locally in your terminal. It allows you to interact with your local codebase via natural-language prompts: read files, modify them, run commands, tests, etc. It supports operations like approving actions, sandboxing, non-interactive (CI) mode, image inputs, etc.
