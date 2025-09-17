@@ -10,9 +10,9 @@ The following repositories will be used to manage development projects via SDD u
 
 The project specifications will be provided and the Codex agent will use these instructions/requirements to generate the desired artifacts.
 
-- [Application Infrastructure](https://github.com/izzyacademy/spec-driven-development-infrastructure)
-- [Backend API Application](https://github.com/izzyacademy/spec-driven-development-backend-api)
-- [Frontend UI Application](https://github.com/izzyacademy/spec-driven-development-frontend-ui)
+- [Application Infrastructure](https://github.com/izzyacademy/spec-driven-development-infrastructure) (Infrastructure as Code, Terraform)
+- [Backend API Application](https://github.com/izzyacademy/spec-driven-development-backend-api) (Python, FastAPI)
+- [Frontend UI Application](https://github.com/izzyacademy/spec-driven-development-frontend-ui) (Typescript, Angular)
   
 We will use the Codex agent to create the automation scripts that will provision the infrastructure with Terraform, then the backend REST API application using FastAPI (python) and then the frontend UI application using Angular (Node/Typescript).
   
