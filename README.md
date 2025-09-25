@@ -4,6 +4,8 @@ OpenAI Codex CLI Master Class
 
 This is the accompanying repository for the master class where you will see links to resources that would help you follow along with the series.
 
+The contents of this repo are available under the [IzzyAcademy License](LICENSE)
+
 ## Repository for Spec-Driven Development using Codex Agent
 
 The following repositories will be used to manage development projects via SDD using Codex agents.
@@ -23,22 +25,6 @@ Codex CLI is an *open-source coding agent* from OpenAI that you run locally in y
 ## How you can use it
 
 Codex is available as a [CLI tool](https://developers.openai.com/codex/cli), as [an IDE extension/plugin](https://developers.openai.com/codex/ide) and also [in the Cloud](https://developers.openai.com/codex/cloud).
-
-There is also an [Intellij Plugin](https://plugins.jetbrains.com/plugin/28264-codex-launcher) available if you use JetBrains IDEs like Pycharm, Intellij and Webstorm.
-
----
-
-## What language / Tech stack it’s written in
-
-* The core is written in **Rust**. 
-* There is also a CLI wrapper or bindings via npm / Node so that users can install via `npm install -g @openai/codex` etc. 
-
----
-
-## License
-
-* Codex CLI is licensed under the **Apache-2.0 License**. 
-* This is a permissive open-source license, which allows using, modifying, redistributing, including in commercial settings, subject to attribution, preserving notices, etc. 
 
 ---
 
